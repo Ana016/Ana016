@@ -1,16 +1,15 @@
 ## Hi there 👋
 
-<!--
-**Ana016/Ana016** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+Ola Meu nome é Ana Carolina
+Tenho 15 anos 
+Estou no primeiro ano do ensino médio 
+Meus hobbies são:
+Fazer aula de jazz
+Fazer musculação 
+Correr
+Cozinhar 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Gosto de Estudar 
+Meu único objetivo é passar em:
+Medicina na faculdade USP 
